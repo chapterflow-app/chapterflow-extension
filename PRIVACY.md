@@ -14,4 +14,5 @@ All user preferences (such as selected chapter toggles) are stored locally withi
 ChapterFlow operates entirely on YouTube video pages (`youtube.com`) and does not send any data to external servers.
 
 ### 4. Contact
-For questions or support regarding this policy, please open an issue on our GitHub repository.
+For support, feedback, or privacy concerns, please contact us at:
+**chapterflow.app@gmail.com**
