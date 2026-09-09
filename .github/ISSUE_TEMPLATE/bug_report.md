@@ -1,30 +1,21 @@
 ---
-name: Bug Report
-about: Report a bug or unexpected behavior
-title: "[Bug] "
+name: Bug report
+about: Report an issue to help improve ChapterFlow for YouTube™
+title: '[BUG] '
 labels: bug
 assignees: ''
+
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+A clear description of what happened.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '...'
-3. See error
+**YouTube Video URL**
+Link to the YouTube video where the issue occurred:
 
 **Expected behavior**
-A clear description of what you expected to happen.
+What you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots.
-
-**Environment**
-- Chrome version: 
-- Extension version: 
-- Operating System: 
-
-**Additional context**
-Add any other context about the problem here.
+**Desktop Environment:**
+ - Browser: [e.g. Chrome, Brave, Edge]
+ - Extension Version: [e.g. 1.0.0]
