@@ -1,19 +1,17 @@
 ---
-name: Feature Request
-about: Suggest an idea for ChapterFlow
-title: "[Feature] "
+name: Feature request
+about: Suggest a new feature or enhancement for ChapterFlow for YouTube™
+title: '[FEATURE] '
 labels: enhancement
 assignees: ''
+
 ---
 
 **Is your feature request related to a problem?**
-A clear description of the problem. Ex. I'm always frustrated when [...]
+A concise description of the problem or limitation (e.g., "I wish ChapterFlow could...").
 
 **Describe the solution you'd like**
-A clear description of what you want to happen.
-
-**Describe alternatives you've considered**
-Any alternative solutions or features you've considered.
+A clear description of what you'd like added.
 
 **Additional context**
-Add any other context, screenshots, or examples.
+Add any context, mockups, or screenshots if applicable.
