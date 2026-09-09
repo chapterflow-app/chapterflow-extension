@@ -1,0 +1,12 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Build & Release ZIPs
+*.zip
+dist/
+build/
+
+# IDE / Editor
+.vscode/
+.idea/
