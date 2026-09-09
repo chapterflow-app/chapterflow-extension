@@ -1,18 +1,16 @@
 # Privacy Policy for ChapterFlow for YouTube™
 
-**Last updated:** September 2026
+**Effective Date:** September 2026
 
-ChapterFlow is built with privacy in mind.
+**ChapterFlow for YouTube™** is built with a privacy-first mindset.
 
-### 1. Data Collection
-ChapterFlow **does not collect, store, or transmit** any personal data, browsing history, or user identity information.
+## Data Collection & Usage
+* **Zero Data Collection:** ChapterFlow for YouTube™ does not collect, track, store, or transmit any personal information, browsing history, or user analytics.
+* **100% Local Processing:** All chapter parsing and playback flow calculations happen entirely inside your local browser. No data ever leaves your device or is sent to external servers.
+* **No Accounts Required:** You do not need to register or create an account to use the extension.
 
-### 2. Local Storage
-All user preferences (such as selected chapter toggles) are stored locally within your browser using Chrome's native `storage` API. This data never leaves your device.
+## Third-Party Services
+The extension includes an optional link to Buy Me a Coffee for voluntary support. Visiting external sites is subject to those platforms' respective privacy policies.
 
-### 3. Third-Party Services
-ChapterFlow operates entirely on YouTube video pages (`youtube.com`) and does not send any data to external servers.
-
-### 4. Contact
-For support, feedback, or privacy concerns, please contact us at:
-**chapterflow.app@gmail.com**
+## Contact
+If you have questions about this privacy policy, please open an issue on the [official GitHub repository](https://github.com/chapterflow-app/chapterflow-extension/issues).
