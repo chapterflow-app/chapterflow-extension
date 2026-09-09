@@ -1,75 +1,50 @@
 # ChapterFlow for YouTube™
 
-**Tailor your podcast feed.** Search and select the topics you want to hear, and skip the rest automatically.
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Install-blue?style=for-the-badge&logo=googlechrome)](https://chromewebstore.google.com/detail/YOUR_EXTENSION_ID_HERE)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/JOUW_NAAM)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Coming%20Soon-lightgrey)]()
-
----
-
-## Features
-
-- **Interactive Chapter Checklist** — Clean overview of all video chapters
-- **Instant Topic Search** — Filter chapters in real-time by keyword
-- **Auto-Skip Engine** — Automatically skips unchecked chapters during playback
-- **Lightweight & Privacy-Focused** — No tracking, no external servers, everything stays local
+**ChapterFlow for YouTube™** helps you get more value from long videos and podcasts. Instead of consuming an entire 1–3 hour video, simply select the chapters that interest you. ChapterFlow for YouTube™ then plays only those parts — continuously and seamlessly.
 
 ---
 
-## Installation
+## ⚡ Key Features
 
-### Chrome Web Store (recommended)
-Coming soon.
-
-### Developer Mode
-1. Download or clone this repository
-2. Open Chrome and go to `chrome://extensions/`
-3. Enable **Developer mode** (top right)
-4. Click **Load unpacked** and select the extension folder
+* 🎯 **Custom Chapter Selection:** Select only the chapters that interest you.
+* 🎧 **Seamless Listening Flow:** Continuous playback of your chosen sections.
+* 🔍 **Instant Search:** Find relevant topics fast in long-form content.
+* ⏱️ **Live Time Calculation:** See the exact remaining duration of your selected chapters.
+* 🎨 **Native Integration:** Clean, collapsible panel matching YouTube's light and dark mode.
+* 🔒 **100% Private:** No tracking, no external servers — everything stays on your device.
 
 ---
 
-## How it works
+## 🚀 Installation
 
-1. Open any YouTube video that has chapters
-2. The ChapterFlow panel appears
-3. Uncheck the topics you want to skip
-4. Press play — ChapterFlow automatically jumps over unchecked sections
+Install **ChapterFlow for YouTube™** directly from the official store:
 
----
+👉 **[Get ChapterFlow for YouTube™ on Chrome Web Store](https://chromewebstore.google.com/detail/YOUR_EXTENSION_ID_HERE)**
 
-## Privacy
-
-ChapterFlow is built with privacy as a core principle.
-
-- No tracking
-- No external servers
-- No collection of personal data
-- All preferences are stored locally in your browser
-
-Read the full [Privacy Policy](PRIVACY.md).
+*(Note: Link will be active as soon as the extension passes Chrome Web Store review).*
 
 ---
 
-## FAQ
+## ☕ Support the Project
 
-Have questions? Check the [Frequently Asked Questions](FAQ.md).
+If ChapterFlow helps you stay focused and saves you time, consider supporting its open-source development:
+
+[![Buy Me A Coffee](https://img.shields.io/button/buy-me-a-coffee?logo=buy-me-a-coffee)](https://buymeacoffee.com/JOUW_NAAM)
 
 ---
 
-## Contributing
+## 🐛 Issues & Feature Ideas
 
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
+Have a feature request or found a bug? Please open an issue via the [GitHub Issues tab](https://github.com/chapterflow-app/chapterflow-extension/issues).
 
-## Security
+---
 
-Found a security issue? Please see [SECURITY.md](SECURITY.md).
+## 📄 License & Legal Disclaimer
 
-## License
+Distributed under the MIT License. See `LICENSE` for details.
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-- Open an [issue](https://github.com/chapterflow-app/chapterflow-extension/issues)
-- Email: **chapterflow.app@gmail.com**
+*YouTube™ is a trademark of Google LLC. Use of this trademark is subject to Google Permissions. ChapterFlow for YouTube™ is an independent project and is not affiliated with, sponsored by, or endorsed by Google LLC or YouTube.*
